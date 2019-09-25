@@ -16,9 +16,9 @@ ENVIRONMENT=bvt
 ##########################
 
 # the site certificate files (.crt & .key) have to be named after the BASE_URL value
-BASE_URL=bvt.oxa.microsoft.com 
-LMS_URL=lms.$BASE_URL
-CMS_URL=cms.$BASE_URL
+BASE_URL=cloudswyft.com 
+LMS_URL=oxatest-learning.$BASE_URL
+CMS_URL=oxatest-studio.$BASE_URL
 PREVIEW_URL=preview.$BASE_URL
 
 # deployment configuration
@@ -46,9 +46,9 @@ EDXAPP_EMAIL_TECH_SUPPORT="${PLATFORM_EMAIL}"
 EDXAPP_EMAIL_UNIVERSITY="${PLATFORM_EMAIL}"
 
 # config/versions.yml
-CONFIGURATION_REPO=https://github.com/Microsoft/edx-configuration.git
+CONFIGURATION_REPO=https://github.com/oxatest/edx-configuration.git
 CONFIGURATION_VERSION=oxa/master.fic
-PLATFORM_REPO=https://github.com/Microsoft/edx-platform.git
+PLATFORM_REPO=https://github.com/oxatest/edx-platform.git
 PLATFORM_VERSION=oxa/master.fic
 THEME_REPO=https://github.com/Microsoft/edx-theme.git
 THEME_VERSION=oxa/master.fic
