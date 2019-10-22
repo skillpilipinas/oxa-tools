@@ -75,7 +75,7 @@
       "value": 1
     },
     "oxaToolsGithubAccountName": {
-      "value": "oxa1"
+      "value": "skillpilipinas"
     },
     "oxaToolsGithubProjectName": {
       "value": "oxa-tools"
@@ -84,7 +84,7 @@
       "value": "oxa/master.fic"
     },
     "edxConfigurationGithubAccountName": {
-      "value": "oxa1"
+      "value": "skillpilipinas"
     },
     "edxConfigurationGithubProjectName": {
       "value": "edx-configuration"
@@ -93,7 +93,7 @@
       "value": "oxa/master.fic"
     },
     "edxPlatformGithubAccountName": {
-      "value": "oxa1"
+      "value": "skillpilipinas"
     },
     "edxPlatformGithubProjectName": {
       "value": "edx-platform"
@@ -102,7 +102,7 @@
       "value": "oxa/master.fic"
     },
     "edxThemeGithubAccountName": {
-      "value": "oxa1"
+      "value": "skillpilipinas"
     },
     "edxThemeGithubProjectName": {
       "value": "edx-theme"
@@ -111,7 +111,7 @@
       "value": "oxa/master.fic"
     },
     "ansibleGithubAccountName": {
-      "value": "oxa1"
+      "value": "skillpilipinas"
     },
     "ansibleGithubProjectName": {
       "value": "ansible"
